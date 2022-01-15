@@ -1,0 +1,50 @@
+.logo {
+  display: block;
+  margin: 30px auto;
+  width: 150px;
+}
+
+.body {
+  font-family: "DM Sans", sans-serif;
+}
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px 50px;
+  text-align: center;
+  background-color: #588d9c;
+}
+
+h1 {
+  font-family: "Dancing Script", cursive;
+}
+.WeatherData {
+  text-align: center;
+  font-size: 25px;
+  font-family: "DM Sans", sans-serif;
+}
+
+.InputCity,
+h2 {
+  color: #fff;
+  font-size: 35px;
+  font-weight: 600;
+}
+
+h3,
+.Weather-2 {
+  color: #235784;
+  font-weight: strong;
+  font-family: "DM Sans", sans-serif;
+}
+
+.Weather-1 {
+  font-size: 15px;
+  font-style: italic;
+  color: #fff;
+}
+
+.Weather-Main {
+  font-size: 50px;
+  color: #f7aa00;
+}
